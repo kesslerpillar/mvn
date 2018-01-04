@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 04 07:44:38 CST 2018
+codeshift-0.0.1-sources.jar>=
+codeshift-0.0.1.jar>=
+codeshift-0.0.1-javadoc.jar>=
+codeshift-0.0.1.pom>=
